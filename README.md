@@ -24,9 +24,11 @@ The total variance of -443,998 was primarily due to Product ID 10092 (an interna
 44 units, but the physical count showed 444,444, creating a 444,400 discrepancy. Another manual error 
 recorded a 39-unit item as 3.9.
 ### Top 3 Revenue Products by Sales: 
-- Home Theatre($2,023.51)
-- Noise Meter(2,005.48)
-- Smart Plug(1,859.60)
+- Green Screen($2,023.51)
+- Cooling Fan(2,005.48)
+- Smart Swtich(1,859.60)
+  <img width="1641" height="1141" alt="image" src="https://github.com/user-attachments/assets/d487b759-2a1e-4ae4-9303-fe4488704ab4" />
+
 ### Top 3 High-Value Purchase Customers:
 High-value customers purchase is evaluated based on their total spending in dollars
 - Findlay($2,268.02)
