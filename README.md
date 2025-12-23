@@ -35,7 +35,7 @@ High-value customers purchase is evaluated based on their total spending in doll
 - Findlay($2,268.02)
 - Joell ($2,174.83)
 - Rebecca ($2089.09).
-<img width="600" height="501" alt="image" src="https://github.com/user-attachments/assets/82822c4e-ee41-4300-b4c3-75fc07e18bd4" />
+<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/82822c4e-ee41-4300-b4c3-75fc07e18bd4" />
 
 ### The top five revenue-generating states:
 Florida, California, Ohio, Texas, and New York, representing 411 orders and $86,836.78, equaling 44% of the total revenue. On the other hand, 
@@ -46,6 +46,8 @@ Wisconsin, Hawaii, Connecticut, Oklahoma, and North Dakota representing only 23 
 ### Revenue Performance by Product Rating Tier:
 The 3-star rated products drive the highest revenue with $87,817, followed by 
 $42,557 for 4-star rated products and $38,573 for 5-star rated products.
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/94b8b825-7010-47af-be99-71f7a6884fb1" />
+
 
 ## Recommendations
 Based on the uncover insights, the following recommendations have been provided for specific areas:
