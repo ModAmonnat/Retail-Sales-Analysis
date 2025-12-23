@@ -1,4 +1,4 @@
-# Retail-Sales-Portfolio
+# SpenMart-Retail-Sales-Portfolio
 ## Project Background
 SpenMart is a retail enterprise specializing in the sale and repair of small electronics. The company operates through both physical storefronts and an online store. Historically, SpenMart’s data has been underutilized; reports were inconsistent, ERP inventory levels frequently mismatched physical stock, and customer insights were siloed across fragmented spreadsheets, PDFs, and disconnected databases. To address these challenges, SpenMart has engaged a team of Data and Business Analysts to improve operational efficiency and sales performance. 
 
@@ -10,10 +10,6 @@ Insights and recommendations are provided on the following key areas:
 - Regional Analysis: An evaluation of sales and orders by region.
 - Opportunity Analysis: An analysis of product growth opportunities by correlating customer ratings with sales performance data by product.
 
-
-
-
-An interactive PowerBI dashboard can be downloaded here.
 The SQL queries utilized to insspect and perform quality check can be found here.
 The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
 Targeted SQL quries regarding various business questions can be found here.
