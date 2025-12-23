@@ -14,8 +14,8 @@ Targeted SQL quries regarding various business questions can be found here.
 
 ## Data Structures and Profiling
 Spenmart's databased structure as seen below consists of [xx] tables: xx,xx,xx, with a total row count of [xx] records.
+<img width="1179" height="529" alt="image" src="https://github.com/user-attachments/assets/57ea58e6-d854-4889-8dab-f3a2a16af9a7" />
 
-<img width="553" height="338" alt="image" src="https://github.com/user-attachments/assets/142da757-1f1f-4c84-97a0-1636c490c75c" />
 
 
 
