@@ -27,7 +27,7 @@ recorded a 39-unit item as 3.9.
 - Green Screen($2,023.51)
 - Cooling Fan(2,005.48)
 - Smart Swtich(1,859.60)
-  <img width="1601" height="1101" alt="image" src="https://github.com/user-attachments/assets/d487b759-2a1e-4ae4-9303-fe4488704ab4" />
+  <img width="1001" height="501" alt="image" src="https://github.com/user-attachments/assets/d487b759-2a1e-4ae4-9303-fe4488704ab4" />
 
 ### Top 3 High-Value Purchase Customers:
 High-value customers purchase is evaluated based on their total spending in dollars
