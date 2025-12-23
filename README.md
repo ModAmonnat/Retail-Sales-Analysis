@@ -10,11 +10,15 @@ Insights and recommendations are provided on the following key areas:
 - Regional Analysis: An evaluation of sales and orders by region.
 - Opportunity Analysis: An analysis of product growth opportunities by correlating customer ratings with sales performance data by product.
 
-The SQL queries utilized to insspect and perform quality check can be found here.
-The SQL queries utilized to clean, organize, and prepare data for the dashboard can be found here.
 Targeted SQL quries regarding various business questions can be found here.
 
 ## Data Structures and Profiling
+Spenmart's databased structure as seen below consists of [xx] tables: xx,xx,xx, with a total row count of [xx] records.
+
+<img width="553" height="338" alt="image" src="https://github.com/user-attachments/assets/142da757-1f1f-4c84-97a0-1636c490c75c" />
+
+
+
 3. Executive Summary
 4. Insights Deep Dive
 5. Recommendations
