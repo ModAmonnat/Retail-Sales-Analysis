@@ -31,9 +31,9 @@ recorded a 39-unit item as 3.9.
 
 ### Top 3 High-Value Purchase Customers:
 High-value customers purchase is evaluated based on their total spending in dollars
-- Findlay($2,268.02)
-- Joell ($2,174.83)
-- Rebecca ($2089.09)
+- ID-136: Findlay($2,268.02)
+- ID-120: Joell ($2,174.83)
+- ID-110: Rebecca ($2089.09)
 
 ### The top five revenue-generating states:
 Florida, California, Ohio, Texas, and New York, representing 411 orders and $86,836.78, equaling 44% of the total revenue. On the other hand, 
