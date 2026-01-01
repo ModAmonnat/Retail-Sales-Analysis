@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 - Regional Analysis: An evaluation of sales and orders by region.
 - Opportunity Analysis: An analysis of product growth opportunities by correlating customer ratings with sales performance data by product.
 
-Targeted SQL quries regarding various business questions can be found here.
+Targeted SQL quries regarding various business questions can be found via the link below.[Targeted SQL Queries](./sql_queries)
 
 ## Data Structures and Profiling
 Spenmart's databased structure as seen below consists of three tables: Customers, Orders, and Products, with a total row count of [xx] records.
