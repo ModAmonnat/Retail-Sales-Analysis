@@ -1,4 +1,4 @@
-# SpenMart-Retail-Sales-Portfolio
+# SpenMart Retail Sales Analysis (SQL Portfolio)
 ## Project Background
 SpenMart is a retail enterprise specializing in the sale and repair of small electronics. The company operates through both physical storefronts and an online store. Historically, SpenMart’s data has been underutilized; reports were inconsistent, ERP inventory levels frequently mismatched physical stock, and customer insights were siloed across fragmented spreadsheets, PDFs, and disconnected databases. To address these challenges, SpenMart has engaged a team of Data and Business Analysts to improve operational efficiency and sales performance. 
 
