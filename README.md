@@ -12,7 +12,7 @@ Insights and recommendations are provided on the following key areas:
 
 Targeted SQL quries regarding various business questions can be found here. [SQL Queries](./sql_queries)
 
-## Data Structures and Profiling
+## Data Structures
 Spenmart's databased structure as seen below consists of three tables: Customers, Orders, and Products.
 
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/57ea58e6-d854-4889-8dab-f3a2a16af9a7" />
