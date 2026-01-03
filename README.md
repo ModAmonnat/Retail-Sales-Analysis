@@ -42,7 +42,7 @@ Florida, California, Ohio, Texas, and New York represent 411 orders and $86,836.
 Products with a 3-star rating drive the highest revenue at $84,603, followed by 4-star rated products($42,423) and 5-star rated products($40,334).
 
 
-<img width="850" height="525" alt="image" src="https://github.com/user-attachments/assets/37edc836-5522-4afe-b3d5-d097638d5272" />
+<img width="650" height="225" alt="image" src="https://github.com/user-attachments/assets/37edc836-5522-4afe-b3d5-d097638d5272" />
 
 
 
